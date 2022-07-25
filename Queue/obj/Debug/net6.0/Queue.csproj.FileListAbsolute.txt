@@ -1,0 +1,14 @@
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\Queue.exe
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\Queue.dll
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\ref\Queue.dll
+C:\Users\Mahdi\source\repos\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.dll
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+C:\Users\Mahdi\source\repos\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
